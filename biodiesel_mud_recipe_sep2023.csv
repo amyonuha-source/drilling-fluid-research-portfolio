@@ -1,0 +1,9 @@
+order,constituent,amount,unit,mixing_minutes,role
+1,Base oil (biodiesel),210.20,mL,,continuous phase
+2,Primary emulsifier,8.70,mL,10,emulsifier
+3,Lime,4,g,5,alkalinity / emulsifier activation
+4,Cellulose fluid-loss additive,1,g,5,fluid-loss control
+5,Water,87.60,mL,15,dispersed phase
+6,Bentonite,6,g,5,viscosifier
+7,Barite,186.30,g,10,weighting agent
+8,Calcium chloride (powder),10,g,5,water-phase salinity

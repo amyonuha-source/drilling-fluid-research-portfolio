@@ -1,0 +1,7 @@
+,biodiesel_mud,diesel_mud
+plastic_viscosity_cP,75.0,17.0
+yield_point_lb100ft2,10.0,13.0
+yp_over_pv,0.133,0.765
+apparent_viscosity_cP,80.0,23.5
+power_law_n_two_point,0.912,0.647
+power_law_K_lb_s_n_100ft2,0.288,0.53

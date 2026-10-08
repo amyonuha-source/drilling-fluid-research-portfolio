@@ -1,0 +1,10 @@
+file,column,description,unit,method,source
+mud_comparison_sep2023.csv,property,Measured property name,,,SIWES report Sep 2023
+mud_comparison_sep2023.csv,biodiesel_mud,Value for the biodiesel-based synthetic mud,see unit column,see methodology.md,SIWES report Sep 2023
+mud_comparison_sep2023.csv,diesel_mud,Value for the diesel-based comparison mud (recipe not recorded),see unit column,see methodology.md,SIWES report Sep 2023
+mud_comparison_sep2023.csv,unit,Unit of the property,,,
+mud_comparison_sep2023.csv,source_section,Where the value appears in the source report,,,
+biodiesel_mud_recipe_sep2023.csv,order,Order of addition,,,SIWES report Sep 2023
+biodiesel_mud_recipe_sep2023.csv,amount,Quantity of constituent,mL or g (see unit),measuring cylinder / balance,SIWES report Sep 2023
+biodiesel_mud_recipe_sep2023.csv,mixing_minutes,Mixing time after adding the constituent,min,,SIWES report Sep 2023
+retort_sample_unassigned.csv,oil_ml / water_ml / solids_ml,Volumes collected from a 10 mL retort sample,mL,retort kit,SIWES report Sep 2023

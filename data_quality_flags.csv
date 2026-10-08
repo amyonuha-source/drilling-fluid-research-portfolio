@@ -1,0 +1,6 @@
+mud,check,values,flag
+biodiesel_mud,10 s gel should not exceed 10 min gel,"10 s = 105, 10 min = 82",True
+biodiesel_mud,gel strength should not exceed the 300 rpm dial reading (3 rpm gel readings are normally far lower),"10 s gel = 105, 300 rpm dial = 85",True
+diesel_mud,10 s gel should not exceed 10 min gel,"10 s = 32, 10 min = 24",True
+diesel_mud,gel strength should not exceed the 300 rpm dial reading (3 rpm gel readings are normally far lower),"10 s gel = 32, 300 rpm dial = 30",True
+diesel_mud,zero filtrate: test conditions and mud recipe must be recorded to interpret,filtrate = 0 mL,True

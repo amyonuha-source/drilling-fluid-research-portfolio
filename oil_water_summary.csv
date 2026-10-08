@@ -1,0 +1,4 @@
+source,oil_percent,water_percent,solids_vol_percent
+recipe (biodiesel mud),70.58,29.42,
+retort (sample NOT confirmed as biodiesel mud),64.2,35.8,19.0
+recommended for 11-14 ppg (source-report table),70.0,30.0,

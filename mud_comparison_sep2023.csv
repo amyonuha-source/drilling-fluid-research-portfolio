@@ -1,0 +1,10 @@
+property,biodiesel_mud,diesel_mud,unit,source_section
+mud_weight,11.15,11.3,ppg,"SIWES report (Sep 2023), mud testing: mud weight"
+ph,9,8,pH units (litmus paper),"SIWES report (Sep 2023), mud testing: pH"
+dial_reading_300rpm,85,30,dial degrees,"SIWES report (Sep 2023), mud testing: rheology"
+dial_reading_600rpm,160,47,dial degrees,"SIWES report (Sep 2023), mud testing: rheology"
+gel_strength_10sec,105,32,lb/100 ft2,"SIWES report (Sep 2023), mud testing: rheology"
+gel_strength_10min,82,24,lb/100 ft2,"SIWES report (Sep 2023), mud testing: rheology"
+filtrate_volume,10.8,0,mL,"SIWES report (Sep 2023), mud testing: filtration (diesel mud recorded as ""no filtrate or mud cake"")"
+mud_cake_thickness,8,0,1/32 inch,"SIWES report (Sep 2023), mud testing: filtration"
+base_oil_specific_gravity,0.881,0.844,at 60/60 F,"SIWES report (Sep 2023), mud testing: hydrometer"
