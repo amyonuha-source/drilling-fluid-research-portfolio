@@ -77,13 +77,9 @@ docs/              methodology.md · data_quality_notes.md
 - No HPHT filtration, electrical stability, aging or temperature data for this pair of muds.
 - Measured at a single laboratory, with a hand-operated viscometer reading maximum dial deflection (as described in the source report).
 
-## Companion project
-
-The water-based mud study that followed this work (green-synthesized TiO₂ fluid-loss additives, final-year project) is in
-[nanoparticle-drilling-fluid-research](https://github.com/amyonuha-source/nanoparticle-drilling-fluid-research).
 
 ## Cite
 
 See [`CITATION.cff`](CITATION.cff). Code is MIT-licensed (see `LICENSE`).
 
-**Author:** Chiamaka Marycynthia Onuh, B.Eng Petroleum Engineering (First Class Honours), Federal University of Technology, Owerri.
+**Author:** Chiamaka Onuh, Federal University of Technology, Owerri.
